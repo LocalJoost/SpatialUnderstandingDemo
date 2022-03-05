@@ -5,7 +5,7 @@ using MRTKExtensions.Utilities;
 using UnityEditor;
 using UnityEngine;
 
-namespace MRTKExtensions.SpatialUnderstanding.Editor
+namespace MRTKExtensions.SceneUnderstanding.Editor
 {
     /// <summary>
     /// Draws a EnumFlags enumeration (for instance Microsoft.MixedReality.Toolkit.SpatialAwareness.SpatialAwarenessSurfaceTypes)
